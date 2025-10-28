@@ -23,3 +23,8 @@ using historical stock data from major tech companies (AAPL, MSFT, GOOGL, AMZN, 
 - pandas, numpy, matplotlib
 - yfinance for data retrieval
 - scipy for optimization
+
+##  Execution
+```bash
+pip install -r requirements.txt
+jupyter notebook Portfolio_Optimization_Final.ipynb
